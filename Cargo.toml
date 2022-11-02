@@ -6,4 +6,5 @@ members = [
     "randomfunc",
     "guessinggame",
     "fibonacci",
+    "countvowels",
 ]
