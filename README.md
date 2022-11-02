@@ -2,7 +2,7 @@
 a series of simple rust programs used to learn the language over time.
 
 ## beginner
-- [ ] write a program which finds the factorial of a number entered by the user. (check for all conditions) .
+- [x] write a program which finds the factorial of a number entered by the user.
 - [ ] develop a program to convert currency x to currency y and visa versa .
 - [ ] write a program that print out the following, user will input the top number:
 ```
