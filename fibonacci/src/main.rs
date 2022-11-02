@@ -24,16 +24,22 @@ impl Iterator for Fibonacci {
 
 fn main() -> Result<(), Box<dyn Error>> {
     println!("Fibonacci Generator!");
-    println!("Calculate the first _ numbers of the Fibonacci sequence:");
+    println!("Calculate the Fibonacci sequence up to...");
     
     let mut input = String::new();
     io::stdin()
         .read_line(&mut input)?;
 
-    let n: usize = input.trim().parse()?;
+    let n: u32 = input.trim().parse()?;
 
-    for i in Fibonacci::new(0, 1).take(n) {
-        println!("{}", i);
+    let mut fib = Fibonacci::new(0, 1);
+
+    loop {
+        let current = fib.next().unwrap(); // fib will never return None
+
+        if current >= n { break; }
+    
+        println!("{}", current);
     }
 
     Ok(())
