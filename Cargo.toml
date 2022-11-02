@@ -7,4 +7,5 @@ members = [
     "guessinggame",
     "fibonacci",
     "countvowels",
+    "fifthroot",
 ]

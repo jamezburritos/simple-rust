@@ -31,7 +31,7 @@ a series of simple rust programs used to learn the language over time.
 - [x] guessing game. write a game that asks the user to guess a number between 1 and a 100. if you guessed correctly, it will say you win. if your too high or too low it will also let you know. 
 - [x] create a program which generates fibonacci series till a number 'n' where 'n' is entered by the user. for eg. if the user enters 10 then the output would be: 1 1 2 3 5 8 
 - [x] determine how many of the characters are vowels and how many are consonants in a given line of text. also terminate the string when the input character encountered is other than the alphabets.
-- [ ] find the fifth root of the sum of the squares of the first 100 odd numbers only. 
+- [x] find the fifth root of the sum of the squares of the first 100 odd numbers only. 
 - [ ] perform 4-letter word unscrambling i.e. list all possible combinations of 4-letters in a word. ex: the word 'test' can be unscrambled as test,tets,tset,tste,ttse,ttes,etc. 
 - [ ] make a program that allows the user to input either the radius, diameter, or area of the circle. the program should then calculate the other 2 based on the input. 
 - [ ] read a line of text and write it out backwards using recursive function. 
