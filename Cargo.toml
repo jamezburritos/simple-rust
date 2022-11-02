@@ -1,5 +1,6 @@
 [workspace]
 members = [
     "factorial",
-    "currencies"
+    "currencies",
+    "pyramids"
 ]

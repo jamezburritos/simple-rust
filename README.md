@@ -4,7 +4,7 @@ a series of simple rust programs used to learn the language over time.
 ## beginner
 - [x] write a program which finds the factorial of a number entered by the user.
 - [x] develop a program to convert currency x to currency y and visa versa .
-- [ ] write a program that print out the following, user will input the top number:
+- [x] write a program that print out the following, user will input the top number:
 ```
 *****
 ****
@@ -12,7 +12,7 @@ a series of simple rust programs used to learn the language over time.
 **
 *
 ```
-- [ ] write a program that print out the following, user will input the bottom number: 
+- [x] write a program that print out the following, user will input the bottom number: 
 ```
 *
 **
@@ -20,7 +20,7 @@ a series of simple rust programs used to learn the language over time.
 ****
 ******
 ```
-- [ ] write a program that pring out the following triangle, the user will input the bottom number:
+- [x] write a program that pring out the following triangle, the user will input the bottom number:
 ```
 *
 ***

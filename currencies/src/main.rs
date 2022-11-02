@@ -14,6 +14,8 @@ fn main() -> Result<(), Box<dyn Error>> {
 
     let choice: u8 = input.trim().parse()?;
 
+    println!("Enter the value to convert: ");
+
     let mut input = String::new();
     io::stdin()
         .read_line(&mut input)?;
