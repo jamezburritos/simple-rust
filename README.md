@@ -27,8 +27,8 @@ a series of simple rust programs used to learn the language over time.
 *****
 *******
 ```
-- [ ] develop a program that uses a randomly generated number to select 1 of 3 (or more) functions to show the user. 
-- [ ] guessing game. write a c++ game that asks the user to guess a number between 1 and a 100. if you guessed correctly, it will say you win. if your too high or too low it will also let you know. 
+- [x] develop a program that uses a randomly generated number to select 1 of 3 (or more) functions to show the user. 
+- [ ] guessing game. write a game that asks the user to guess a number between 1 and a 100. if you guessed correctly, it will say you win. if your too high or too low it will also let you know. 
 - [ ] create a program which generates fibonacci series till a number 'n' where 'n' is entered by the user. for eg. if the user enters 10 then the output would be: 1 1 2 3 5 8 
 - [ ] determine how many of the characters are vowels and how many are consonants in a given line of text. also terminate the string when the input character encountered is other than the alphabets.
 - [ ] find the fifth root of the sum of the squares of the first 100 odd numbers only. 

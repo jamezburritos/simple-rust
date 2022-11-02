@@ -2,5 +2,6 @@
 members = [
     "factorial",
     "currencies",
-    "pyramids"
+    "pyramids",
+    "randomfunc",
 ]
