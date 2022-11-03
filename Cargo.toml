@@ -11,4 +11,5 @@ members = [
     "permutations",
     "circles",
     "reverse",
+    "swapthree",
 ]
