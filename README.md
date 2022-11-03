@@ -40,7 +40,7 @@ a series of simple rust programs used to learn the language over time.
 - [x] write a program to simulate a simple calculator. it should accept two number from the user along with the required operation to be performed. addition, subtraction, division and multiplication are the basic operations that should be implemented. feel free to implement the other operations 
 - [x] determine how much money is in a piggy bank that contains several 50 paise coins, 25 paise coins, 20 paise coins, 10 paise coins and 5 paise coins. use the following values to test your program : five 50 paise coins, three 25 paise coins, two 20 paise coins, one 10 paise coin and fifteen 5 paise coins. 
 - [x] create a simple palindrome checker program. the program should allow the user to enter a string and check whether the given string is a palindrome or not. only digits and alphabets should be considered while checking for palindromes -- any other characters are to be ignored. 
-- [ ] write a program that allows you to input students' scores and weights. the program should then calculate a weighted average and score based on the data inputted by the user. 
+- [x] write a program that allows you to input students' scores and weights. the program should then calculate a weighted average and score based on the data inputted by the user. 
 
 ## intermediate
 - [ ] write a program which will print all the pairs of prime numbers whose sum equals the number entered by the user.

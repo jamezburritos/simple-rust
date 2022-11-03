@@ -16,4 +16,5 @@ members = [
     "calculator",
     "coins",
     "palindrome",
+    "grades",
 ]
