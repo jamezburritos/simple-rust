@@ -8,4 +8,5 @@ members = [
     "fibonacci",
     "countvowels",
     "fifthroot",
+    "permutations",
 ]
