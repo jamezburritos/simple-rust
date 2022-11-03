@@ -1,5 +1,6 @@
 # simple-rust
 a series of simple rust programs used to learn the language over time.
+list found [here](https://cplusplus.com/forum/beginner/3473/).
 
 ## beginner
 - [x] write a program which finds the factorial of a number entered by the user.
