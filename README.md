@@ -34,7 +34,7 @@ a series of simple rust programs used to learn the language over time.
 - [x] find the fifth root of the sum of the squares of the first 100 odd numbers only. 
 - [x] perform 4-letter word unscrambling i.e. list all possible combinations of 4-letters in a word. ex: the word 'test' can be unscrambled as test,tets,tset,tste,ttse,ttes,etc. 
 - [x] make a program that allows the user to input either the radius, diameter, or area of the circle. the program should then calculate the other 2 based on the input. 
-- [ ] read a line of text and write it out backwards using recursive function. 
+- [x] read a line of text and write it out backwards using recursive function. 
 - [ ] write a program to swap the contents of 3 variables without using the temporary (or extra) variables. 
 - [ ] write a program which reverses the numerals in an integer, that is 326 becomes 623, etc. 
 - [ ] the program will tell the user each time whether he guessed high or low. the user wins the game when the number guessed is same as randomly generated number. 
