@@ -17,4 +17,5 @@ members = [
     "coins",
     "palindrome",
     "grades",
+    "sumprimes",
 ]

@@ -43,7 +43,7 @@ a series of simple rust programs used to learn the language over time.
 - [x] write a program that allows you to input students' scores and weights. the program should then calculate a weighted average and score based on the data inputted by the user. 
 
 ## intermediate
-- [ ] write a program which will print all the pairs of prime numbers whose sum equals the number entered by the user.
+- [x] write a program which will print all the pairs of prime numbers whose sum equals the number entered by the user.
 - [ ] develop a animal classification program base on the animal kingdom. (for practice the use of inhabitant classes).
 - [ ] write a quiz program, which retrieve question, and answer from a file. then allow the user to take the quiz/count point and return score. 
 - [ ] write a program that accepts xhtml, parses and removes the tags. then it prints out the remaining text. 
