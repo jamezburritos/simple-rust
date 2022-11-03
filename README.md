@@ -45,7 +45,6 @@ list found [here](https://cplusplus.com/forum/beginner/3473/).
 
 ## intermediate
 - [x] write a program which will print all the pairs of prime numbers whose sum equals the number entered by the user.
-- [ ] develop a animal classification program base on the animal kingdom. (for practice the use of inhabitant classes).
 - [ ] write a quiz program, which retrieve question, and answer from a file. then allow the user to take the quiz/count point and return score. 
 - [ ] write a program that accepts xhtml, parses and removes the tags. then it prints out the remaining text. 
 - [ ] write a program which performs addition, subtraction, multiplication of matrices. the dimensions of both the matrices would be specified by the user (dynamic memory allocation required). use of structure or a class to define the matrix would be a good idea. 
