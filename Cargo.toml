@@ -15,4 +15,5 @@ members = [
     "reversenums",
     "calculator",
     "coins",
+    "palindrome",
 ]
