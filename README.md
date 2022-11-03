@@ -33,7 +33,7 @@ a series of simple rust programs used to learn the language over time.
 - [x] determine how many of the characters are vowels and how many are consonants in a given line of text. also terminate the string when the input character encountered is other than the alphabets.
 - [x] find the fifth root of the sum of the squares of the first 100 odd numbers only. 
 - [x] perform 4-letter word unscrambling i.e. list all possible combinations of 4-letters in a word. ex: the word 'test' can be unscrambled as test,tets,tset,tste,ttse,ttes,etc. 
-- [ ] make a program that allows the user to input either the radius, diameter, or area of the circle. the program should then calculate the other 2 based on the input. 
+- [x] make a program that allows the user to input either the radius, diameter, or area of the circle. the program should then calculate the other 2 based on the input. 
 - [ ] read a line of text and write it out backwards using recursive function. 
 - [ ] write a program to swap the contents of 3 variables without using the temporary (or extra) variables. 
 - [ ] write a program which reverses the numerals in an integer, that is 326 becomes 623, etc. 
