@@ -13,4 +13,5 @@ members = [
     "reverse",
     "swapthree",
     "reversenums",
+    "calculator",
 ]
