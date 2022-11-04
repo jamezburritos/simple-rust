@@ -46,7 +46,6 @@ list found [here](https://cplusplus.com/forum/beginner/3473/).
 ## intermediate
 - [x] write a program which will print all the pairs of prime numbers whose sum equals the number entered by the user.
 - [x] write a quiz program, which retrieve question, and answer from a file. then allow the user to take the quiz/count point and return score. 
-- [ ] write a program that accepts xhtml, parses and removes the tags. then it prints out the remaining text. 
 - [ ] write a program which performs addition, subtraction, multiplication of matrices. the dimensions of both the matrices would be specified by the user (dynamic memory allocation required). use of structure or a class to define the matrix would be a good idea. 
 - [ ] write a program which will perform the job of moving the file from one location to another. the source and destination path will be entered by the user. perform the required error checking and handle the exceptions accordingly. 
 - [ ] create a sophisticated linked list class. you should be able to insert and delete nodes anywhere in the list, and the nodes should have pointers to nodes both in front and behind them. 
