@@ -18,4 +18,5 @@ members = [
     "palindrome",
     "grades",
     "sumprimes",
+    "quiz",
 ]
