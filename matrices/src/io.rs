@@ -16,7 +16,7 @@ pub fn menu(items: &[&'static str]) -> &'static str {
             return items[choice]
         }
 
-        println!("Error: Input must be one of the options given.")
+        println!("Input must be one of the options given.")
     } 
 }
 
@@ -31,7 +31,7 @@ where
     loop {
         match input.trim().parse() {
             Ok(val) => return val,
-            Err(_) => println!("Error: Input must be a number.")
+            Err(_) => println!("Input must be a number.")
         };
     }
 }
