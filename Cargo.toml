@@ -20,4 +20,5 @@ members = [
     "sumprimes",
     "quiz",
     "matrices",
+    "movefile",
 ]
