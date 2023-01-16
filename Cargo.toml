@@ -21,4 +21,5 @@ members = [
     "quiz",
     "matrices",
     "movefile",
+    "linkedlist",
 ]
