@@ -35,9 +35,9 @@ list adapted from a post found [here](https://cplusplus.com/forum/beginner/3473/
 - [x] swap the contents of 3 variables without using any temporary (or extra) variables. 
 - [x] reverse the digits of an integer, that is 326 becomes 623, etc. 
 - [x] simple calculator: accept a two-number operation and output the solution. implement at least +-*/.
-- [x] determine the dollar value of a number of 50c, 25c, 10c and 5c coins, given the count of each coin.
+- [x] determine the total dollar value of a number of 50c, 25c, 10c and 5c coins, given how many of each coin there are in a piggy-bank.
 - [x] check if a given string is a palindrome (a string which is the same both forwards and backwards). consider only alphanumeric characters and ignore case.
-- [x] input an indefinite number of a student's scores and their percentage weights. calculate their weighted average.
+- [x] input an indefinite number of a student's scores and their percentage weights. calculate and output their weighted average.
 
 ## intermediate
 - [x] output all the pairs of prime numbers whose sum equals a given number.
@@ -55,7 +55,7 @@ list adapted from a post found [here](https://cplusplus.com/forum/beginner/3473/
 - [ ] implement a file encryption/decryption program. accept a file as an argument and use a custom file header to determine whether the file needs to be encrypted or decrypted.
 - [ ] implement a data structure to model the standard 52 playing cards. use it to develop a playable version of your favourite card game.
 - [ ] implement a data structure to model a standard chess board. then use it to develop a playable game of chess.
-- [ ] implement the binary-tree data structure. nodes should be able to be inserted and deleted anywhere in the tree. The tree should be sortable, searchable, and traverable both depth and breadth first.
+- [ ] implement the binary-tree data structure. nodes should be able to be inserted and deleted anywhere in the tree. the tree should be sortable, searchable, and traverable both depth and breadth first.
 
 ## graphics
 - [ ] draw a rectangle, ellipse, square, circle, point or line based on user input. 
