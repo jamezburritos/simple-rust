@@ -1,5 +1,5 @@
 # simple-rust
-a series of simple rust programs used to learn the language over time.
+A series of simple rust programs used to learn the language over time.
 list adapted from a post found [here](https://cplusplus.com/forum/beginner/3473/).
 
 ## beginner
